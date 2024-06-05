@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Fede Velho\\Desktop\\Proyecto\\Proyecto1 C#(C.R.U.D)\\Proyecto1 (CRUD)\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4AA6262A-E4D1-4B20-BB7F-040DC8FE3F37}|Proyecto1 (CRUD)\\Proyecto1 (CRUD).csproj|C:\\Users\\Fede Velho\\Desktop\\Proyecto\\Proyecto1 C#(C.R.U.D)\\Proyecto1 (CRUD)\\proyecto1 (crud)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA6262A-E4D1-4B20-BB7F-040DC8FE3F37}|Proyecto1 (CRUD)\\Proyecto1 (CRUD).csproj|solutionrelative:proyecto1 (crud)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4AA6262A-E4D1-4B20-BB7F-040DC8FE3F37}|Proyecto1 (CRUD)\\Proyecto1 (CRUD).csproj|c:\\users\\fede velho\\desktop\\proyecto\\proyecto1 c#(c.r.u.d)\\proyecto1 (crud)\\proyecto1 (crud)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4AA6262A-E4D1-4B20-BB7F-040DC8FE3F37}|Proyecto1 (CRUD)\\Proyecto1 (CRUD).csproj|solutionrelative:proyecto1 (crud)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AA6262A-E4D1-4B20-BB7F-040DC8FE3F37}|Proyecto1 (CRUD)\\Proyecto1 (CRUD).csproj|c:\\users\\fede velho\\desktop\\proyecto\\proyecto1 c#(c.r.u.d)\\proyecto1 (crud)\\proyecto1 (crud)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AA6262A-E4D1-4B20-BB7F-040DC8FE3F37}|Proyecto1 (CRUD)\\Proyecto1 (CRUD).csproj|solutionrelative:proyecto1 (crud)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AA6262A-E4D1-4B20-BB7F-040DC8FE3F37}|Proyecto1 (CRUD)\\Proyecto1 (CRUD).csproj|c:\\users\\fede velho\\desktop\\proyecto\\proyecto1 c#(c.r.u.d)\\proyecto1 (crud)\\proyecto1 (crud)\\clases\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA6262A-E4D1-4B20-BB7F-040DC8FE3F37}|Proyecto1 (CRUD)\\Proyecto1 (CRUD).csproj|solutionrelative:proyecto1 (crud)\\clases\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA6262A-E4D1-4B20-BB7F-040DC8FE3F37}|Proyecto1 (CRUD)\\Proyecto1 (CRUD).csproj|c:\\users\\fede velho\\desktop\\proyecto\\proyecto1 c#(c.r.u.d)\\proyecto1 (crud)\\proyecto1 (crud)\\clases\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA6262A-E4D1-4B20-BB7F-040DC8FE3F37}|Proyecto1 (CRUD)\\Proyecto1 (CRUD).csproj|solutionrelative:proyecto1 (crud)\\clases\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +26,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Alumnos.cs",
+              "DocumentMoniker": "C:\\Users\\Fede Velho\\Desktop\\Proyecto\\Proyecto1 C#(C.R.U.D)\\Proyecto1 (CRUD)\\Proyecto1 (CRUD)\\Clases\\Alumnos.cs",
+              "RelativeDocumentMoniker": "Proyecto1 (CRUD)\\Clases\\Alumnos.cs",
+              "ToolTip": "C:\\Users\\Fede Velho\\Desktop\\Proyecto\\Proyecto1 C#(C.R.U.D)\\Proyecto1 (CRUD)\\Proyecto1 (CRUD)\\Clases\\Alumnos.cs",
+              "RelativeToolTip": "Proyecto1 (CRUD)\\Clases\\Alumnos.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAwwHMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:43:20.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Fede Velho\\Desktop\\Proyecto\\Proyecto1 C#(C.R.U.D)\\Proyecto1 (CRUD)\\Proyecto1 (CRUD)\\Clases\\Conexion.cs",
+              "RelativeDocumentMoniker": "Proyecto1 (CRUD)\\Clases\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Fede Velho\\Desktop\\Proyecto\\Proyecto1 C#(C.R.U.D)\\Proyecto1 (CRUD)\\Proyecto1 (CRUD)\\Clases\\Conexion.cs",
+              "RelativeToolTip": "Proyecto1 (CRUD)\\Clases\\Conexion.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:08:55.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Fede Velho\\Desktop\\Proyecto\\Proyecto1 C#(C.R.U.D)\\Proyecto1 (CRUD)\\Proyecto1 (CRUD)\\Form1.cs",
               "RelativeDocumentMoniker": "Proyecto1 (CRUD)\\Form1.cs",
               "ToolTip": "C:\\Users\\Fede Velho\\Desktop\\Proyecto\\Proyecto1 C#(C.R.U.D)\\Proyecto1 (CRUD)\\Proyecto1 (CRUD)\\Form1.cs",
               "RelativeToolTip": "Proyecto1 (CRUD)\\Form1.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAhwBIAAAAAAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwDMAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T19:00:57.274Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Fede Velho\\Desktop\\Proyecto\\Proyecto1 C#(C.R.U.D)\\Proyecto1 (CRUD)\\Proyecto1 (CRUD)\\Form1.cs",
               "RelativeDocumentMoniker": "Proyecto1 (CRUD)\\Form1.cs",

@@ -69,6 +69,7 @@
             this.btnEliminar.TabIndex = 8;
             this.btnEliminar.Text = "Eliminar";
             this.btnEliminar.UseVisualStyleBackColor = true;
+            this.btnEliminar.Click += new System.EventHandler(this.btnEliminar_Click);
             // 
             // btnModificar
             // 
@@ -78,6 +79,7 @@
             this.btnModificar.TabIndex = 7;
             this.btnModificar.Text = "Modificar";
             this.btnModificar.UseVisualStyleBackColor = true;
+            this.btnModificar.Click += new System.EventHandler(this.btnModificar_Click);
             // 
             // btnGuardar
             // 
@@ -87,6 +89,7 @@
             this.btnGuardar.TabIndex = 6;
             this.btnGuardar.Text = "Guardar";
             this.btnGuardar.UseVisualStyleBackColor = true;
+            this.btnGuardar.Click += new System.EventHandler(this.btnGuardar_Click);
             // 
             // txtApellidos
             // 
@@ -104,6 +107,7 @@
             // 
             // txtId
             // 
+            this.txtId.Enabled = false;
             this.txtId.Location = new System.Drawing.Point(118, 39);
             this.txtId.Name = "txtId";
             this.txtId.Size = new System.Drawing.Size(203, 22);
@@ -145,6 +149,7 @@
             this.dgvTotalAlumnos.RowTemplate.Height = 24;
             this.dgvTotalAlumnos.Size = new System.Drawing.Size(393, 277);
             this.dgvTotalAlumnos.TabIndex = 1;
+            this.dgvTotalAlumnos.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvTotalAlumnos_CellDoubleClick);
             // 
             // Form1
             // 
@@ -155,6 +160,7 @@
             this.Controls.Add(this.groupBox1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvTotalAlumnos)).EndInit();

@@ -1,0 +1,42 @@
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\Proyecto1 (CRUD).exe.config
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\Proyecto1 (CRUD).exe
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\Proyecto1 (CRUD).pdb
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\Google.Protobuf.dll
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\MySql.Data.dll
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\System.Buffers.dll
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\System.Memory.dll
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\ZstdSharp.dll
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\Google.Protobuf.pdb
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\Google.Protobuf.xml
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\MySql.Data.xml
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\System.Buffers.xml
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\System.Memory.xml
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\obj\Debug\Proyecto1 (CRUD).csproj.AssemblyReference.cache
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\obj\Debug\Proyecto1__CRUD_.Form1.resources
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\obj\Debug\Proyecto1__CRUD_.Properties.Resources.resources
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\obj\Debug\Proyecto1 (CRUD).csproj.GenerateResource.cache
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\obj\Debug\Proyecto1 (CRUD).csproj.CoreCompileInputs.cache
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\obj\Debug\Proyecto.26A56AFC.Up2Date
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\obj\Debug\Proyecto1 (CRUD).exe
+C:\Users\Fede Velho\Desktop\Proyecto\Proyecto1 C#(C.R.U.D)\Proyecto1 (CRUD)\Proyecto1 (CRUD)\obj\Debug\Proyecto1 (CRUD).pdb
